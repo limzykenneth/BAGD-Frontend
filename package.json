@@ -48,6 +48,6 @@
     "backbone": "global:Backbone"
   },
   "dependencies": {
-    "smark": "~2.0.0"
+    "smark": "2.0.0"
   }
 }
