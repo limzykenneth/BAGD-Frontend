@@ -109,8 +109,7 @@ h6{
 	overflow: hidden;
 	background-color: #ffff00;
 	opacity: 1;
-	-webkit-transition: opacity 0.5s ease;
-	        transition: opacity 0.5s ease;
+	transition: opacity 0.5s ease;
 }
 
 #loading img{
@@ -540,8 +539,7 @@ h6{
 	width: 100vw;
 	height: 100vh;
 	opacity: 0;
-	-webkit-transition: opacity 0.2s ease;
-	        transition: opacity 0.2s ease;
+	transition: opacity 0.2s ease;
 	padding: 130px 30px 30px 30px;
 }
 
@@ -687,8 +685,7 @@ h6{
 #mobile-content header.holding-page #show-details{
 	max-height: 0px;
 	overflow: hidden;
-	-webkit-transition: max-height 0.5s ease-out;
-	        transition: max-height 0.5s ease-out;
+	transition: max-height 0.5s ease-out;
 }
 
 @media only screen and (max-width: 479px){
